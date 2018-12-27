@@ -1,18 +1,17 @@
 # Export2Library
 ## Script for Blender 2.79 WARNING!!! (WIP) 
 
-Export selected data from mainfile to libraryfile and lint that data from libraryfile to mainfile.
+This script exports selected data from main file to library file and link that data from library file to main file.
 
-## Support:
----------
-* object.data
+### Support:
+* export and of object's data
 
-## Todo:
----------
-* Name conflicts WARNING!!!
+
+### Todo:
+* WARNING!!! Name conflicts
 * Export materials
 * Export worlds
 
-## Limitation:
----------
-* If data.name['Cube'] is in libraryfile, nothing will happend or you can lose it. WARNING!!!
+
+### Limitation:
+* WARNING!!! If data.name['Cube'] is in libraryfile, nothing will happend or you can lose it
